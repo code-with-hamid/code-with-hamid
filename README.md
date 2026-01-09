@@ -21,8 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=code-with-hamid&theme=ambient_gradient&hide_border=false)  
 
 ---
