@@ -7,8 +7,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-hamid-butt) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_MuhammadHamid) 
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>](https://linkedin.com/in/muhammad-hamid-butt)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/>](https://x.com/@_MuhammadHamid)
 
 ---
 
